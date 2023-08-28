@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>Creator || Full-Stack Engineer || Product || Payments || Defi || Dapps | Solidity || Building Stuffs 🚀 🌕</p>
+<p align='center'>Creator || Full-Stack Engineer || Product || Payments || Defi || Solidity || Building Stuffs 🚀 🌕</p>
 
 <p align='center'>
 <!-- <a href="https://wa.me/?text=Hello Josh" target="_blank">
