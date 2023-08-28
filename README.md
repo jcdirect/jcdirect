@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <a href="mailto:joshuatebepina.com" target="_blank"> 
-  <img src="https://img.shields.io/badge/Website-2ECCAA?logo=weblate&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Website-2ECCAA?logo=weblate&logoColor=fff&style=for-the-badge&logo=weblate&logoColor=white" />
        </a>
   
   <!--
